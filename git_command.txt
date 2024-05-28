@@ -1,0 +1,6 @@
+git init
+git add README.md
+git commit -m "Second commit"
+git branch -M master
+git remote add origin https://github.com/patel812/scm2.0.git
+git push -u origin master
